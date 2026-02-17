@@ -10,7 +10,6 @@ This script provides players with a location featuring a washer to exchange ille
 - 📈 Configurable **static** or **dynamic tax rates** that change automatically on a set schedule.
 - ⏲️ Prevent player abuse with a **configurable cooldown** between transactions.
 - 💰 Fully compatible with the **ESX Framework**.
-- 🔗 Optional **Discord webhook logging** to track transactions and money distribution.
 
 ## License
 
